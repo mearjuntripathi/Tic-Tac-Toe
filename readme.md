@@ -2,6 +2,7 @@
 
 Welcome to the <kbd>Tic Tac Toe Multiplayer Game!</kbd> This project allows you to play the classic game of Tic Tac Toe against the computer at three difficulty levels (`easy`, `medium`, `hard`) or against other online players. The game is built using `HTML`, `CSS`, `JS`, and `Node.js`, with real-time communication facilitated by `Socket.io`. The responsive design, smooth animations, and interactive sounds enhance the overall gaming experience.
 
+
 ## Features
 
 1. **Multiplayer Gameplay:**
